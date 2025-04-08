@@ -1,0 +1,16 @@
+[ids]
+
+*
+
+[main]
+
+capslock = overload(capslock, esc)
+
+[capslock:C]
+
+j = down
+k = up
+h = left
+l = right
+e = A-M-right
+q = A-M-left
